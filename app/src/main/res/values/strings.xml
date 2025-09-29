@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MynConverter</string>
+    <string name="open_nav">Menüyü Aç</string>
+    <string name="close_nav">Menüyü Kapat</string>
+    <string-array name="formats_array">
+        <item>PDF</item>
+        <item>DOCX</item>
+        <item>TXT</item>
+        <item>JPG</item>
+        <item>PNG</item>
+        <item>MP3</item>
+        <item>MP4</item>
+        <item>M4A</item>
+        <item>WEBP</item>
+        <item>GIF</item>
+        <item>ZIP</item>
+    </string-array>
+</resources>
